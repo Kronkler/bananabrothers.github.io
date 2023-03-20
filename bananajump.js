@@ -3,7 +3,7 @@ const ctx = canvas.getContext('2d');
 
 // Game variables
 const bananabrother = new Image();
-bananabrother.src = 'https://raw.githubusercontent.com/Kronkler/bananabrothers.github.io/main/bananabrother.gif';
+bananabrother.src = 'bananabrother.gif';
 const bananaWidth = 50;
 const bananaHeight = 50;
 const gravity = 1;
